@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haniel Cardoso
 - 👀 I’m interested in Videogames, Programming and Mathematics!
-- 🌱 I’m currently learning C# and JavaScript!
-- 💞️ I’m looking to work with CPE Jr.
+- 🌱 I’m currently learning C# and C++!
+- 💞️ I’m looking to work with Myself.
 - 📫 You can reach me ...
 
 <!---
