@@ -1,4 +1,4 @@
-Hi, I’m Haniel Cardoso
+Hi, I’m Haniel Schirmer
 
 I’m interested in Videogames, Programming and Mathematics!
 
