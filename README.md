@@ -2,7 +2,7 @@ Hi, I’m Haniel Schirmer
 
 I’m interested in Videogames, Programming and Mathematics!
 
-I’m currently learning C# and C++!
+I’m currently learning Python and C++!
 
 I’m looking to work with Myself.
 
